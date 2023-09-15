@@ -21,7 +21,7 @@
   - [CompTIA Network +](https://github.com/sudosecure/) <b>
   - [CompTIA Security +](https://github.com/sudosecure/) <b>
   - [ACI Computer User Support Specialist](https://github.com/sudosecure/) <b>
-  - [Google Cybersecurity Professional Certificate](https://github.com/sudosecure/) <b>
+  - [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1meR5exK3q9NT613BbrEOV5JwSYP5dIGw/view?usp=drive_link) <b>
   
 - <b>PowerShell</b>
   
