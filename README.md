@@ -15,9 +15,13 @@
   - [Docker Containers](https://github.com/sudoseure/)
     
 - <b>Certifications</b>
-  - [CompTIA A+](https://github.com/sudosecure/) <b>
+
+  - [ITIL4 Foundation Certification](https://github.com/sudosecure/) <b>
+  - [CompTIA A+ Certificate](https://github.com/sudosecure/) <b>
+  - [CompTIA Network +](https://github.com/sudosecure/) <b>
+  - [CompTIA Security +](https://github.com/sudosecure/) <b>
   - [ACI Computer User Support Specialist](https://github.com/sudosecure/) <b>
-  - [Google IT Support Professional](https://github.com/sudosecure/) <b>
+  - [Google Cybersecurity Professional Certificate](https://github.com/sudosecure/) <b>
   
 - <b>PowerShell</b>
   
