@@ -7,6 +7,9 @@
   - [Windows Sever 2022 Server](https://github.com/sudosecure/)
 
 - <b> Home Server Lab</b>
+
+  - [Home Network Lab](https://github.com/sudosecure/)
+  - [Proxmox](https://github.com/sudosecure/)
   - [Jellyfin Media Server](https://github.com/sudosecure/)
   - [Nextcloud](https://github.com/sudosecure/)
   - [Pfsense](https://github.com/sudosecure/)
