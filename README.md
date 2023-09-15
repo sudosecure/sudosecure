@@ -1,28 +1,33 @@
-<h1>Hi, I'm Colin! <br/><a href="https://github.com/joshmadakor1">IT Specialist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cyber Security Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Colin! <br/><a href="https://github.com/sudosecure">IT Specialist</a>, <a href="https://www.linkedin.com/in/oswaldocolin/">Cyber Security Professional</a>, <a href="https://www.youtube.com/c/@sudosecurecolin">YouTuber</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/sudosecure/888)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Ubuntu Server](https://github.com/sudosecure/)
+  - [Windows Sever 2022 Server](https://github.com/sudosecure/)
+
+- <b> Home Server Lab</b>
+  - [Jellyfin Media Server](https://github.com/sudosecure/)
+  - [Nextcloud](https://github.com/sudosecure/)
+  - [Pfsense](https://github.com/sudosecure/)
+  - [Synology Virtualization](https://github.com/sudosecure/)
+    
+- <b>Certifications</b>
+  - [CompTIA A+](https://github.com/sudosecure/) <b>
+  - [ACI Computer User Support Specialist](https://github.com/sudosecure/) <b>
+  - [Google IT Support Professional](https://github.com/sudosecure/) <b>
   
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  
     
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/sudosecure/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/)
+- [Is WGU Legit?](https://www.youtube.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -36,17 +41,4 @@
 [instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/Oswaldocolin
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
