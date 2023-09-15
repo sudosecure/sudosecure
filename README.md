@@ -11,6 +11,8 @@
   - [Nextcloud](https://github.com/sudosecure/)
   - [Pfsense](https://github.com/sudosecure/)
   - [Synology Virtualization](https://github.com/sudosecure/)
+  - [Nginx Proxy Manager](https://github.com/sudoseure/)
+  - [Docker Containers](https://github.com/sudoseure/)
     
 - <b>Certifications</b>
   - [CompTIA A+](https://github.com/sudosecure/) <b>
@@ -26,8 +28,7 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/)
-- [Is WGU Legit?](https://www.youtube.com/)
+
 
 <h2> 🤳 Connect with me:</h2>
 
