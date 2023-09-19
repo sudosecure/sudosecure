@@ -19,8 +19,8 @@
     
 - <b>Certifications</b>
 
-  - [ITIL4 Foundation Certification](https://drive.google.com/file/d/1Wb46HI6aKBX4W6IOnH5tRqdb2glUo0Gh/view?usp=drive_link)) <b>
-  - [CompTIA A+ Certificate]([https://github.com/sudosecure/](https://drive.google.com/file/d/1AWX2ibiXILw5BAcQNHPWOCSlRACslEfX/view?usp=drive_link)) <b>
+  - [ITIL4 Foundation Certification](https://drive.google.com/file/d/1Wb46HI6aKBX4W6IOnH5tRqdb2glUo0Gh/view?usp=drive_link) <b>
+  - [CompTIA A+ Certificate]([https://github.com/sudosecure/](https://drive.google.com/file/d/1AWX2ibiXILw5BAcQNHPWOCSlRACslEfX/view?usp=drive_link) <b>
   - [CompTIA Network +](https://github.com/sudosecure/) <b>
   - [CompTIA Security +](https://github.com/sudosecure/) <b>
   - [ACI Computer User Support Specialist Boot Camp](https://github.com/sudosecure/) <b>
