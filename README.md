@@ -19,12 +19,13 @@
     
 - <b>Certifications</b>
 
-  - [ITIL4 Foundation Certification](https://github.com/sudosecure/) <b>
-  - [CompTIA A+ Certificate](https://github.com/sudosecure/) <b>
+  - [ITIL4 Foundation Certification](https://drive.google.com/file/d/1Wb46HI6aKBX4W6IOnH5tRqdb2glUo0Gh/view?usp=drive_link)) <b>
+  - [CompTIA A+ Certificate]([https://github.com/sudosecure/](https://drive.google.com/file/d/1AWX2ibiXILw5BAcQNHPWOCSlRACslEfX/view?usp=drive_link)) <b>
   - [CompTIA Network +](https://github.com/sudosecure/) <b>
   - [CompTIA Security +](https://github.com/sudosecure/) <b>
-  - [ACI Computer User Support Specialist](https://github.com/sudosecure/) <b>
-  - [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1meR5exK3q9NT613BbrEOV5JwSYP5dIGw/view?usp=drive_link) <b>
+  - [ACI Computer User Support Specialist Boot Camp](https://github.com/sudosecure/) <b>
+  - [Google Foundations of Cybersecurity](https://drive.google.com/file/d/1meR5exK3q9NT613BbrEOV5JwSYP5dIGw/view?usp=drive_link) <b>
+  - [Google Play it Safe: Manage Security Risk](https://drive.google.com/file/d/1DPlZoFEc6GA6ZiV5_gkJsImUEIJi2O7B/view?usp=drive_link) <b>
   
 - <b>PowerShell</b>
   
