@@ -8,7 +8,6 @@
 
 - <b> Home Server Lab</b>
 
-  - [Home Network Lab](https://github.com/sudosecure/)
   - [Proxmox](https://github.com/sudosecure/)
   - [Jellyfin Media Server](https://github.com/sudosecure/jellyfin)
   - [Nextcloud](https://github.com/sudosecure/nextcloud-portfolio)
@@ -27,15 +26,11 @@
   - [Google Foundations of Cybersecurity](https://drive.google.com/file/d/1meR5exK3q9NT613BbrEOV5JwSYP5dIGw/view?usp=drive_link) <b>
   - [Google Play it Safe: Manage Security Risk](https://drive.google.com/file/d/1DPlZoFEc6GA6ZiV5_gkJsImUEIJi2O7B/view?usp=drive_link) <b>
   
-- <b>PowerShell</b>
-  
-    
+
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/sudosecure/)
 
 <h2>📺 Popular YouTube Videos</h2>
-
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/)
 
 
 <h2> 🤳 Connect with me:</h2>
