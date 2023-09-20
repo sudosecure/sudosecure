@@ -13,7 +13,7 @@
   - [Jellyfin Media Server](https://github.com/sudosecure/jellyfin)
   - [Nextcloud](https://github.com/sudosecure/)
   - [Pfsense](https://github.com/sudosecure/)
-  - [Synology Virtualization](https://github.com/sudosecure/)
+  - [Cockpit Project](https://github.com/sudosecure/)
   - [Nginx Proxy Manager](https://github.com/sudoseure/)
   - [Docker Containers](https://github.com/sudoseure/)
     
