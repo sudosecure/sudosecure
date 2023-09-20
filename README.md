@@ -12,7 +12,7 @@
   - [Proxmox](https://github.com/sudosecure/)
   - [Jellyfin Media Server](https://github.com/sudosecure/jellyfin)
   - [Nextcloud](https://github.com/sudosecure/nextcloud-portfolio)
-  - [Pfsense](https://github.com/sudosecure/)
+  - [Pfsense](https://github.com/sudosecure/pfsense-portfolio)
   - [Cockpit Project](https://github.com/sudosecure/fileserver-portfolio)
   - [Nginx Proxy Manager](https://github.com/sudoseure/)
   - [Docker Containers](https://github.com/sudoseure/)
