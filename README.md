@@ -11,7 +11,7 @@
   - [Home Network Lab](https://github.com/sudosecure/)
   - [Proxmox](https://github.com/sudosecure/)
   - [Jellyfin Media Server](https://github.com/sudosecure/jellyfin)
-  - [Nextcloud](https://github.com/sudosecure/)
+  - [Nextcloud](https://github.com/sudosecure/nextcloud-portfolio)
   - [Pfsense](https://github.com/sudosecure/)
   - [Cockpit Project](https://github.com/sudosecure/fileserver-portfolio)
   - [Nginx Proxy Manager](https://github.com/sudoseure/)
